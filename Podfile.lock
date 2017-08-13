@@ -1,0 +1,55 @@
+PODS:
+  - CardIO (5.4.1)
+  - CircleMenu (2.0.5)
+  - Crashlytics (3.8.5):
+    - Fabric (~> 1.6.3)
+  - Fabric (1.6.12)
+  - IQKeyboardManagerSwift (4.0.10)
+  - PayPal-iOS-SDK (2.17.0):
+    - PayPal-iOS-SDK/CardIO (= 2.17.0)
+    - PayPal-iOS-SDK/Core (= 2.17.0)
+  - PayPal-iOS-SDK/CardIO (2.17.0):
+    - CardIO (~> 5.4.1)
+  - PayPal-iOS-SDK/Core (2.17.0)
+  - RevealingSplashView (0.4.0)
+  - SCLAlertView (0.7.0)
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+  - SimpleAnimation (0.3.1)
+  - SwipeView (1.3.2)
+  - TAPageControl (0.2.0)
+  - TWMessageBarManager (1.8.1)
+
+DEPENDENCIES:
+  - CircleMenu (~> 2.0.1)
+  - Crashlytics
+  - Fabric
+  - IQKeyboardManagerSwift
+  - PayPal-iOS-SDK
+  - RevealingSplashView
+  - SCLAlertView
+  - SDWebImage
+  - SimpleAnimation
+  - SwipeView
+  - TAPageControl (~> 0.2)
+  - TWMessageBarManager
+
+SPEC CHECKSUMS:
+  CardIO: 56983b39b62f495fc6dae9ad7cf875143df06443
+  CircleMenu: 7cef16b4401de5b545e5f06d720cb202ec64800d
+  Crashlytics: dfbae35ef22ca189240d230ad501feea4ee85d2d
+  Fabric: f050464eac45a2ce5a8e6e6a07e977c0df32fe28
+  IQKeyboardManagerSwift: 75ba21a23794a1e6b6fe6d9a267ea17f80e06771
+  PayPal-iOS-SDK: 849321f6214a7187ee4cc684f63fe509df4c4a36
+  RevealingSplashView: 72be158ad5e1bc72713e8f78383dc3e1803ce4d1
+  SCLAlertView: 8a14ffc40590c619e183eed2298b854385f30be1
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+  SimpleAnimation: 0c4fe9cb60b5d5c57611909ca95722446fe74d63
+  SwipeView: bd67cfaf7760c036438446b3ccb28a3b84fce009
+  TAPageControl: fd11d779bbb5c2464ca2f55dde9e288213ea8a9b
+  TWMessageBarManager: fd84e7948ba7968a2b5d9454859135761214ec56
+
+PODFILE CHECKSUM: 5a7cbdf472b146f8394469b1c2acb6bd9eb2f3ec
+
+COCOAPODS: 1.2.1
